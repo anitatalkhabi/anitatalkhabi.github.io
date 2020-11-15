@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : anitatalkhabi
 facebook:
-  username               : sauleh.eetemadi
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -109,13 +109,13 @@ analytics:
 author:
   name             : "anita talkhabi"
   avatar           : "/assets/images/profile.jpg"
-  bio              :  computer engineering student in iust university
+  bio              :  computer engineering student in iust 
   location         : "تهران"
   email            : anitatalkhabi@gmail.com
   twitter: anitatalkhabi
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
+  github: anitatalkhabi
   instagram: talkhabianita
   links:
     - label: "Email"
