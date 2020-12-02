@@ -14,5 +14,4 @@ title: برنامه ریزی و مدریت زمان
 
 
 ![alt text](../assets/images/planner.jpg)
---
 
