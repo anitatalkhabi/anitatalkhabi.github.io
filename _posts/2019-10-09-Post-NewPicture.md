@@ -13,6 +13,6 @@ title: برنامه ریزی و مدریت زمان
 و در آخر صحبت هاشون بهم گفتن که حتما هر سوالی داشتیم حتی اگه به نظرمون کوچیک بود بپرسیم.
 
 
-![alt text](../assets/images/planner.jpg "planner pictur")
+![alt text](../assets/images/planner.jpg)
 --
 
