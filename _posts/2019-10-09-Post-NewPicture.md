@@ -15,7 +15,7 @@ title: برنامه ریزی و مدریت زمان
 
 
 
-![alt text](../assets/images/planner.jpg "Team Picture")
+![alt text](../assets/images/planner.jpg "planner pictur")
 
 ---
 
